@@ -9,11 +9,12 @@ yolov5 for pytorch
 输出结果保存为json格式文件。
 
 ## 环境
-cann 5.0.4
+- cann 5.0.4
 
-yolov5s
+- atlas500 (ascend 310)小站
 
-atlas500 (ascend 310)
+- yolov5s
+
 
 ## 使用方法
 
