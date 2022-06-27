@@ -13,6 +13,8 @@ yolov5 for pytorch
 
 - atlas500 (ascend 310)小站
 
+- python3
+
 - yolov5s
 
 
